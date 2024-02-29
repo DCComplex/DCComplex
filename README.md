@@ -12,9 +12,9 @@ Welcome to the GitHub profile of DCComplex, a passionate team of Minecraft plugi
 
 ### Project 1: BossNotify
 
-[Custom Notification System Minecraft Plugin]
+Custom Notification System Minecraft Plugin
 
-- Repository: [https://github.com/DCComplex/BossNotify]
+- Repository: [https://github.com/DCComplex/BossNotify](https://github.com/DCComplex/BossNotify)
 
 
 ## Get in Touch
@@ -22,7 +22,7 @@ Welcome to the GitHub profile of DCComplex, a passionate team of Minecraft plugi
 We're always open to new collaborations and ideas. Reach out to us on Discord or through email to discuss potential projects or just to say hi!
 
 - Discord: [discord.gg/dccomplex](https://discord.gg/dccomplex)
-- Email: [dcgsolutions27@gmail.com]
+- Email: [dcgsolutions27@gmail.com](GetinTouch)
 
 ## Support Us
 
