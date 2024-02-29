@@ -22,7 +22,7 @@ Custom Notification System Minecraft Plugin
 We're always open to new collaborations and ideas. Reach out to us on Discord or through email to discuss potential projects or just to say hi!
 
 - Discord: [discord.gg/dccomplex](https://discord.gg/dccomplex)
-- Email: [dcgsolutions27@gmail.com](GetinTouch)
+- Email: [GetinTouch](dcgsolutions27@gmail.com)
 
 ## Support Us
 
